@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I am Ronye Vantzing</h1>
 
 - 📄 Currently, my experience is broad in programming languages ​​such as Java, C, PHP, Bash and JavaScript. I have used databases such as MySQL, MariaDB, and Nitrite, and I have also done data persistence in binary files. I also have experience in testing with Selenium and PyTest.
-Currently, I am in support, working with database APIs, integrating via interface and testing via Postman.
+Currently, I am in support, working with bank APIs, integrating via interface and testing via Postman.
 As support, I have extensive experience in black-box unit testing and, in some cases, depending on the situation, some white-box testing alongside the Squad developer.
 
 <h3 align="left">Languages ​​and tools:</h3>
